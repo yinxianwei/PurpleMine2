@@ -21,6 +21,7 @@ table.list {
     border: 2px solid $table-border-color;
     border-width: $table-list-header-border;
     color: $gray;
+    background-color: #EEE;
     vertical-align: bottom;
 
     a {
@@ -106,7 +107,8 @@ table.list {
       white-space: nowrap;
 
       a {
-        padding-right: 5px;
+        //padding-right: 5px;
+        margin-right: 0.6em;
       }
 
       img {
