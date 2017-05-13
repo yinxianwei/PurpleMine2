@@ -202,3 +202,14 @@ a[data-expands] {
     display: none;
   }
 }
+
+a.eq-button, .eq-button {
+    box-shadow: none !important;
+    background-image: none !important;
+    background: #f9f9f9 !important;
+}
+
+a.eq-button-success,
+.eq-button-success {
+    background: #62c462 !important;
+}
